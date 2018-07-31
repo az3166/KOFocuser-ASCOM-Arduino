@@ -1,2 +1,2 @@
-# KOFocuser-ASCOM-Arduino
-KOFocuser-ASCOM-Arduino
+# KOFocuser-Arduino
+KOFocuser-Arduino
