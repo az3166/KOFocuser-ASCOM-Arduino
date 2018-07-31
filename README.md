@@ -1,2 +1,2 @@
-# KOFocuser-Arduino
-KOFocuser-Arduino
+# KOT.Focuser-Arduino
+KOT.Focuser-Arduino
